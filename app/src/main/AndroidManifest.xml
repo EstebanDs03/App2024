@@ -13,6 +13,9 @@
         android:theme="@style/Theme.Esteban"
         tools:targetApi="31">
         <activity
+            android:name=".Usuario"
+            android:exported="false" />
+        <activity
             android:name=".carrito"
             android:exported="false" />
         <activity
