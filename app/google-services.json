@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "825804889376",
+    "project_id": "sneakersmed-36f2b",
+    "storage_bucket": "sneakersmed-36f2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825804889376:android:639ab6b7ec022344edcb45",
+        "android_client_info": {
+          "package_name": "com.co.esteban"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJYDSL1WZxCkDIAqbiyL_CEBh7bqP4n1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
